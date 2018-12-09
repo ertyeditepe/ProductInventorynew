@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "586672731417",
+    "firebase_url": "https://depostock-kimlik.firebaseio.com",
+    "project_id": "depostock-kimlik",
+    "storage_bucket": "depostock-kimlik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586672731417:android:c722f24ab5fdf8eb",
+        "android_client_info": {
+          "package_name": "com.example.etoo.productinventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586672731417-4648nj410p2emosdd14hsdssl6e33213.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPJa4ibzfyrgIRXa1oLw_PuR-E2utha6A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
